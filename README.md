@@ -50,7 +50,8 @@ cd Chat-Application-
 Visit: http://localhost:8080
 
 ## 🖼️ Screenshot
-![Chat App Screenshot](screenshot.png)
+
+<img src="https://github.com/user-attachments/assets/a910e58d-588a-4273-a224-70cba27b87ae" width="700"/>
 
 
 ##  🙋‍♂️ Author
